@@ -1,4 +1,4 @@
 # jkuoba.github.io
 My own github page 
 
-This is the page for document all QA related tech info
+This is the document for all QA related tech info
